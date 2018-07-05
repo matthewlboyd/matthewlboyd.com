@@ -8,8 +8,9 @@ permalink:           pretty
 title:               mlboyd.xyz
 tagline:             'Some projects'
 description:         'A compendium of some nerd projects that I actually finished' 
-url:                 mlboyd.xyz
+url:                 https://mlboyd.xyz
 baseurl:             ''
+#absolute_url:        mlboyd.xyz
 paginate:            5
 plugins:             [jekyll-paginate] 
 paginate_path:       'page:num'
