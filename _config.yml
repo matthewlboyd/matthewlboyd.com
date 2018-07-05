@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               mlboyd.xyz
+tagline:             'Some projects'
+description:         'A compendium of some nerd projects that I actually finished' 
+url:                 https://mlboyd.xyz
+baseurl:             ''
+paginate:            5
+plugins:             [jekyll-paginate] 
+# About/contact
+author:
+  name:              Matthew Boyd
+  url:               https://github.com/matthewlboyd
+  email:             matthewlboyd@gmail.com
+
+# Custom vars
+version:             1.0.0
