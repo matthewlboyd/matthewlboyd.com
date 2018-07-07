@@ -35,6 +35,9 @@ author:
 # Custom vars
 version:             1.0.0
 
+github:
+  repo:              https://github.com/matthewlboyd/mlboydxyz
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.

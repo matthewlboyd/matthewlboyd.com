@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: true
-title: Using Mikrotik Hex router with Centurylink fiber and PPPOE
+title: Using a Mikrotik Hex router with Centurylink fiber and PPPOE
 ---
 
 # Intro
 
-Living in a growing technology city like Portland, one would think you would have several options for
+Living in a burgeoning technology city like Portland, one would think you would have several options for
 an ISP. However, like most places, Portland is limited to just two options: Comcast or Centurylink
 (Google Fiber being the perennial tease).
 
@@ -36,7 +36,9 @@ my scrub-level networking skills.
 
 3. A couple ethernet cables to connect your laptop to the router.
 
-4. Download Mikrotik's Winbox program if you want to use it: https://mikrotik.com/download
+4. Download Mikrotik's Winbox program if you want to use it: https://mikrotik.com/download.
+
+5. Self-confidence! The setup looks complicated, but it should go pretty smoothly.
 
 # Configuration
 
