@@ -21,7 +21,7 @@ Inspired by the post [here](https://arstechnica.com/gadgets/2016/09/the-router-r
 decided to go with a Mikrotik Hex router.
 
 The exact Mikrotik model I am using is this one: [Mikrotik hEX RB750Gr3](https://amzn.to/2KThhap).
-Coupled with a single [Ubiquiti Unifi Long Range AP](https://amzn.to/2ucPWch) I get excellent (20-30Mbps) Wifi throughout
+Coupled with a single [Ubiquiti Unifi Long Range AP](https://amzn.to/2ucPWch) I get good (20-30Mbps) Wifi throughout
 my two story home.
 
 I've been really happy with my Mikrotik Hex router since I got it all setup over the winter holidays.
