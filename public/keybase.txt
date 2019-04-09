@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/cizer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mlboyd.xyz
+  * I am cizer (https://keybase.io/cizer) on keybase.
+  * I have a public key with fingerprint BFAD 0F3A 2821 CDC9 BE7C  1B4F 98C3 9134 5D73 0E36
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101800b1b38751d253c2cd851ffcd347bed66f30619784ca8a305ecd6417300ab380a",
+      "fingerprint": "bfad0f3a2821cdc9be7c1b4f98c391345d730e36",
+      "host": "keybase.io",
+      "key_id": "98c391345d730e36",
+      "kid": "0101800b1b38751d253c2cd851ffcd347bed66f30619784ca8a305ecd6417300ab380a",
+      "uid": "0e96f65dda834d2912fabd12a5429219",
+      "username": "cizer"
+    },
+    "service": {
+      "hostname": "mlboyd.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1554817195,
+  "expire_in": 157680000,
+  "prev": "1086671017a43a941ab67b903f81df5e9fd3245e707bef1d7e854083a4e48d06",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJbSBVBHMaPt7wV5SUig6A1ejCzmZ3Z2yki0AqssMIyyjrN7szaku0e
+zx6to4kWaUWJXZAgIsKiQqXsQjcJM8QIoVNYQfRQkV18kIoyrCiaLXvrsadh/vP9
+vvnmY3onxPlSYt59GJq+r62+Laa/50ilr7TjZHuNoDs0IvhrhC3s98LKKXPDgS0W
+FfwCgACqAOhQR6oiQSpKyBANqkrQNA2KsKIzKssmAjLUFBUbRCUISMygMoYKAoBw
+DhAhVzAtu4yFgiHLDnNb3SQUmIiIqggNamg6UwyoY1NTDaRBhCXKYYZkDm52XI/g
+4XTisjzL4TO+CfyO9w/9f85d+ceOabIpS5QSFWEqalA0iU6hSCQsaiLUPKHLQjbZ
+yrjasKpZSKjNFfioyjKY16r3jLHjreW6E6F52yPVHAuGnLBjOOV8vjkcDrp+jwtH
+gp5wG9MDYxYB3bIpr5ATVSzkWo4t+CFXGmHL84SShFWoQE3KFdj2oBViActTSIrM
+WwDAu4dVcUsIVFlWeDkKwYhoGBJdVnQNIFOF1JSYZlIkYokpgDdkQqowVcJARQQz
+rFLgFeyyCtsR/AjznKSMe7pWmU3ClSEm1N65XRrvi0nxjUuI9f6WLyV50t8fl9Oa
+5Due1tNUfOVzh5B9Nuvaqgs/X+xtiV1+rnnujKzK1OdvfSeKBg9rLRsaEw+dv5hs
+ZczRKhqT4rMPzN7zfaj2/sDXhu4ssiQ62DVlV1pLf8NotKdxYnehmrpg3+PqY/E7
+mtLfL8nofNzasexjNHn01MP5a6cUroneZOk5meTgl2lTE2Hn0pcjM3Fx1scnzypu
+XCp5FTnZ+yZzpPT1pzzjjdtsD11Yum54vG9lTbR7Z1XhZQmtr0uIvffjasGDxrKH
+rcLwptWT8cLkjX1P80/vv34rElncMM89OqlvT9vrrsgcbXddfWnd5UTzxLdZ9qUV
+QtGTuIK2gc78pDPtix7dXRCt15vSSkZ+ASFNPdA=
+=LVxF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cizer
+
+==================================================================
