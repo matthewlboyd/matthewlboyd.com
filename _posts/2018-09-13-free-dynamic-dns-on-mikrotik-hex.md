@@ -53,5 +53,5 @@ add name="checkcurrentip" policy=ftp,password,policy,read,reboot,sensitive,romon
 ## Step 5 - Setup scheduler to periodically check our DDNS setup
 
 ```
-/system scheduler add name="Check IP and update DDNS" on-event="checkcurrentip" interval=2h
+/system scheduler add name="Check IP and update DDNS" on-event="/system script run checkcurrentip" interval=2h
 ```
