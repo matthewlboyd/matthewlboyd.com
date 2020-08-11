@@ -3,6 +3,7 @@ _site
 .jekyll-metadata
 s3_website.yml
 .java-version
+.jekyll-cache/
 
 # OS generated files #
 ######################
