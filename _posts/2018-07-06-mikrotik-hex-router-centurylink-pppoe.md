@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: Using a Mikrotik Hex router with Centurylink fiber and PPPOE
 ---
 
