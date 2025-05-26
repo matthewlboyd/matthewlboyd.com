@@ -11,10 +11,10 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               mlboyd
+title:               matthewlboyd
 tagline:             'Some projects'
 description:         'A compendium of some nerd projects that I actually finished' 
-url:                 https://mlboyd.xyz
+url:                 https://matthewlboyd.com
 baseurl:             /
 
 paginate:            5
