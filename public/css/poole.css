@@ -35,6 +35,22 @@
  * Update the foundational and global aspects of the page.
  */
 
+/* Skip link for keyboard / screen reader users */
+.skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 0;
+  z-index: 9999;
+  padding: .5rem 1rem;
+  background: #000;
+  color: #fff;
+  font-size: 1rem;
+  text-decoration: none;
+}
+.skip-link:focus {
+  top: 0;
+}
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -349,7 +365,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #666666;
 }
 
 /* Related posts */
@@ -367,7 +383,7 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts li small {
   font-size: 75%;
-  color: #999;
+  color: #666666;
 }
 .related-posts li a:hover {
   color: #268bd2;
@@ -375,6 +391,27 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts li a:hover small {
   color: inherit;
+}
+
+
+/*
+ * Archive
+ */
+
+.archive-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 2rem;
+}
+.archive-list li {
+  display: flex;
+  gap: .75rem;
+  padding: .2rem 0;
+}
+.archive-date {
+  color: #666666;
+  flex-shrink: 0;
+  width: 4.5rem;
 }
 
 
