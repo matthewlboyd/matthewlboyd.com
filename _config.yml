@@ -21,6 +21,9 @@ defaults:
     values:
       image: true
 
+sass:
+  style: compressed
+
 # About/contact
 author:
   name:              Matthew Boyd
