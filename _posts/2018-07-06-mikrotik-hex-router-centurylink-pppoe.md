@@ -44,7 +44,7 @@ Open the Terminal on the router and run the following two commands to setup pppo
 `/interface vlan
 add interface=ether1 name=e1-v201 vlan-id=201
 /interface pppoe-client
-add add-default-route=yes disabled=no interface=e1-v201 name=pppoe-out1 password=yourpwtermin user=youruser
+add add-default-route=yes disabled=no interface=e1-v201 name=pppoe-out1 password=yourpw user=youruser
 `
 
 ## Step 5
