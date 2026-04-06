@@ -8,7 +8,7 @@ title: Setting up free dynamic DNS on your Mikrotik Hex
 
 If you got inspired by the [previous post](https://mlboyd.xyz/2018/07/06/mikrotik-hex-router-centurylink-pppoe/) and setup your nice, new Mikrotik Hex router, you might want to configure dynamic DNS on it as well.
 
-The advantage of dynamic DNS is that you get a nice hostname to ssh to/reference even though the underlying IP address might change. I've had Centurylink fiber as my ISP for about 6 months, and my IP address has changed a couple of times. Nothing to crazy, but it's nice to just have a hostname and not have to worry about the ip address.
+The advantage of dynamic DNS is that you get a nice hostname to ssh to/reference even though the underlying IP address might change. I've had Centurylink fiber as my ISP for about 6 months, and my IP address has changed a couple of times. Nothing too crazy, but it's nice to just have a hostname and not have to worry about the ip address.
 
 The steps below are pretty simple and should only take 5-10 minutes to setup. With this setup, every two hours the router will see if the IP on the interface has changed. If it has, the router will call out to FreeDNS to update DDNS.
 
