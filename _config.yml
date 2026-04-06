@@ -12,7 +12,9 @@ url:                 https://mlboyd.xyz
 baseurl:             ''
 #absolute_url:        mlboyd.xyz
 paginate:            5
-plugins:             [jekyll-paginate] 
+plugins:
+ - jekyll-paginate
+ - jekyll-seo-tag
 paginate_path:       'page:num'
 
 defaults:
