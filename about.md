@@ -8,4 +8,4 @@ Howdy Yall! I'm an open-source enthusiast, GNU/Linux tinkerer, gardener (want a 
 
 In my non-work time, I can usually be found renovating my 100+ year old house, gardening with my toddler, or going on long bike rides (ideally on a dirt road or trail).
 
-  Thanks for reading!
+Thanks for reading!
