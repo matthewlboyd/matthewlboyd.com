@@ -18,7 +18,7 @@ timezone:          America/Los_Angeles
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /articles/:year-:month/:title/ 
 
 kramdown:
   auto_ids: true
@@ -27,6 +27,9 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+exclude:
+  - s3_website.yml
+  - README.md
 #
 ###################################
 # Site Owner configuration
@@ -38,7 +41,7 @@ owner:
   job: "My projects"
   bio: "A compendium of some nerdy projects that I actually finished." 
   email: matthewlboyd@gmail.com
-  disqus-shortname:
+  disqus-shortname: mlboyd-xyz
   twitter: matthewlboyd
   facebook: #username
   google:
