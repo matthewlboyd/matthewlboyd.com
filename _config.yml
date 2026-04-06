@@ -15,6 +15,7 @@ paginate:            5
 plugins:
  - jekyll-paginate
  - jekyll-seo-tag
+ - jekyll-sitemap
 paginate_path:       'page:num'
 
 defaults:
