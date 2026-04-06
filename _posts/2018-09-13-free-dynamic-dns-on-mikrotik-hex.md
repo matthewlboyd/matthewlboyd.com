@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: Setting up free dynamic DNS on your Mikrotik Hex
 ---
 

@@ -1,16 +1,22 @@
+# Dependencies
+markdown:         kramdown
+plugins: [jekyll-paginate]
+highlighter:      rouge
+future: true
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-#relative_permalinks: true
+relative_permalinks: true
 
 # Setup
-title:               mlboyd.xyz
+title:               mlboyd
 tagline:             'Some projects'
 description:         'A compendium of some nerd projects that I actually finished' 
 url:                 https://mlboyd.xyz
-baseurl:             ''
-#absolute_url:        mlboyd.xyz
+baseurl:             /
+
 paginate:            5
 plugins:
  - jekyll-paginate
@@ -31,16 +37,10 @@ sass:
 author:
   name:              Matthew Boyd
   url:               https://github.com/matthewlboyd
-  email:             matthewlboyd@gmail.com
+  email:             matthewlboyd@hey.com
 
 # Custom vars
 version:             1.0.0
 
 github:
   repo:              https://github.com/matthewlboyd/mlboydxyz
-
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: mlboyd-xyz
