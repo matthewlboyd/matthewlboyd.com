@@ -10,7 +10,7 @@ Living in a burgeoning technology city like Portland, one would think you would 
 an ISP. However, like most places, Portland is limited to just two options: Comcast or Centurylink
 (Google Fiber being the perennial tease).
 
-Centurylink recently ran a special where you could get 40MBS fiber internet for 55$ a month perpetually,
+Centurylink recently ran a special where you could get 100MBS fiber internet for 55$ a month perpetually,
 supposedly without future price increases. I'm a cheap dirtbag, so the price was right.
 
 Cneturylink tries to get you to use their crumby Zyxel router for something like 10$ a month.
