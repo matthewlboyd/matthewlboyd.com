@@ -8,7 +8,7 @@ permalink:           pretty
 title:               mlboyd.xyz
 tagline:             'Some projects'
 description:         'A compendium of some nerd projects that I actually finished' 
-url:                 https://mlboyd.xyz
+url:                 mlboyd.xyz
 baseurl:             ''
 paginate:            5
 plugins:             [jekyll-paginate] 
@@ -22,3 +22,9 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: mlboyd-xyz
