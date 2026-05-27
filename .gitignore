@@ -1,6 +1,8 @@
 _site
 .sass-cache
 .jekyll-metadata
+.bundle/
+vendor/bundle/
 s3_website.yml
 .java-version
 .jekyll-cache/
